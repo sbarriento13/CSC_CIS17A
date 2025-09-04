@@ -1,1 +1,18 @@
+/*
+ *File: main.cpp
+ *Author: Shiyra Barrientos
+ *Created on September 2, 2025, 9:41 PM
+ *Purpose: Hello World
+*/
 
+using namespace std;
+#include <iostream>
+#include <cstdlib>
+
+int main(int argc, char** argv) {
+    
+    cout << "Hello, World!";
+    cout << endl;
+    
+    return 0;
+}
